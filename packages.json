@@ -1756,6 +1756,25 @@
     "repo": "https://github.com/purescript/purescript-minibench.git",
     "version": "v2.0.0"
   },
+  "minimist": {
+    "dependencies": [
+      "console",
+      "contravariant",
+      "effect",
+      "either",
+      "foreign",
+      "foreign-generic",
+      "foreign-object",
+      "options",
+      "ordered-collections",
+      "partial",
+      "prelude",
+      "spec",
+      "transformers"
+    ],
+    "repo": "https://github.com/mcoffin/purescript-minimist.git",
+    "version": "v0.5.1"
+  },
   "mmorph": {
     "dependencies": [
       "free",
